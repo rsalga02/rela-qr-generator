@@ -1,0 +1,1 @@
+Version 3: Uses Google Chart API to render QR reliably on GitHub Pages and iOS.
